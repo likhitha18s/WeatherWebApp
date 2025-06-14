@@ -49,7 +49,7 @@ This project is built with a modern web development stack:
 
 ## Key Features
 
-*   Search for weather by city name or zip code.
+*   Search for weather by city name..
 *   Get weather for your current location using browser geolocation.
 *   Display current weather conditions: temperature, feels like, humidity, wind speed, pressure, visibility, sunrise/sunset times, and a descriptive icon.
 *   Show a 5-day weather forecast with high/low temperatures, conditions, and icons.
@@ -77,4 +77,3 @@ This application was created by:
 *   Department of Computer Science and Engineering (CSE)
 *   MVGR College of Engineering
 
-Built with Firebase Studio.
